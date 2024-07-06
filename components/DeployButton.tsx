@@ -17,7 +17,7 @@ export default function DeployButton() {
           fill="currentColor"
         ></path>
       </svg>
-      Deploy to Vercel
+      My Codelab
     </a>
   );
 }
